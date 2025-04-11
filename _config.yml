@@ -1,12 +1,13 @@
 title: Henrik Kragh Sørensen
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  # First description 
+  Cand.scient. Mathematics and Computer Science
   # <br><br>
-  # Second description 
+  # Professor, University of Copenhagen
   # <br><br>
-  # <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+  <a href="https://www.henrikkragh.dk">My personal web page</a>
+  # <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
