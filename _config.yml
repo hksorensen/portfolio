@@ -1,12 +1,12 @@
 title: Henrik Kragh Sørensen
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/hksorensen.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   # Cand.scient. Mathematics and Computer Science
   # <br><br>
   # Professor, University of Copenhagen
   # <br><br>
-  # <a href="https://www.henrikkragh.dk">My personal web page</a>
-  # <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
+  # <a href="http://www.henrikkragh.dk">My personal web page</a>
+  # <a href="https://www.linkedin.com/in/henrik-kragh-sørensen-7321523/">View My LinkedIn Profile</a>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
